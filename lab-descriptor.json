@@ -3,13 +3,21 @@
         "name": "Electrical Engineering",
         "link": "http://www.vlab.co.in/broad-area-electrical-engineering"
     },
-    "lab": "Electrical Machines",
+    "lab": "Electrical Machine (Simulation)",
     "deployLab":true,
     "phase": 3,
     "collegeName": "IITR",
     "baseUrl": "http://ems-iitr.vlabs.ac.in",
     "introduction": "Welcome to Electrical Machines Lab",
     "experiments": [
+	    	    {
+            "name": "Familiarization of the electrical machine laboratory apparatus",
+            "short-name": "lab-equipment-familiarization",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/lab-equipment-familiarization-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+                },
 	        {
             "name": "To study the Load Characteristics of DC shunt generator",
             "short-name": "load-characteristics-dc-shunt",
@@ -18,6 +26,22 @@
             "tag": "v1.0.0",
             "deploy": true
 	        },
+		 {
+            "name": "Speed Control of DC motor by field resistance control",
+            "short-name": "dcmotor-field-resistance-control",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/dcmotor-field-resistance-control-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+                },
+		{
+            "name": "Speed Control of DC motor by armature resistance control",
+            "short-name": "dcshunt-motor-armature-control",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/dcshunt-motor-armature-control-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+                },
 		{	
 	    "name": "To perform speed control of DC motor by using Ward- Leonard Method of speed control",
             "short-name": "dcmotor-ward-leonard",
@@ -27,6 +51,14 @@
             "deploy": true
 	        },
 		{
+            "name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
+            "short-name": "circuit-parameters-oc-test",
+            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/circuit-parameters-oc-test-iitr",
+            "branch": "master",
+            "tag": "v1.0.0",
+            "deploy": true
+                },
+				{
 	    "name": "To study Magnetisation Characteristics of DC shunt generator",
             "short-name": "magnetization-characteristics-dcshunt",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/magnetization-characteristics-dcshunt-iitr",
@@ -38,38 +70,6 @@
 	    "name": "Speed control of slipring Induction Motor",
             "short-name": "speed-control-slip-ring",
             "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/speed-control-slip-ring-iitr",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
-            "short-name": "circuit-parameters-oc-test",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/circuit-parameters-oc-test-iitr",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Speed Control of DC motor by armature resistance control",
-            "short-name": "dcshunt-motor-armature-control",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/dcshunt-motor-armature-control-iitr",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-	        },
-		{
-	    "name": "Speed Control of DC motor by field resistance control",
-            "short-name": "dcmotor-field-resistance-control",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/dcmotor-field-resistance-control-iitr",
-            "branch": "master",
-            "tag": "v1.0.0",
-            "deploy": true
-                },
-		{
-	    "name": "Familiarization of the electrical machine laboratory apparatus",
-            "short-name": "lab-equipment-familiarization",
-            "repo": "http://vlabs.iitb.ac.in/gitlab/vlabs-dev-central-hosting/electrical-machines-simulation-iitr/lab-equipment-familiarization-iitr",
             "branch": "master",
             "tag": "v1.0.0",
             "deploy": true
