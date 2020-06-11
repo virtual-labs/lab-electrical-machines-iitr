@@ -8,7 +8,7 @@
     "phase": 3,
     "collegeName": "IITR",
     "baseUrl": "http://ems-iitr.vlabs.ac.in",
-    "introduction": "Welcome to Electrical Machines Lab",
+    "introduction": "Welcome to Electrical Machine (Simulation) Lab",
     "experiments": [
 	    	    {
             "name": "Familiarization of the electrical machine laboratory apparatus",
