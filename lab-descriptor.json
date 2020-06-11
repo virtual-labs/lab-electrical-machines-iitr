@@ -3,12 +3,12 @@
         "name": "Electrical Engineering",
         "link": "http://www.vlab.co.in/broad-area-electrical-engineering"
     },
-    "lab": "Electrical Machines (Simulation)",
+    "lab": "Electrical Machine (Simulation)",
     "deployLab":true,
     "phase": 3,
     "collegeName": "IITR",
     "baseUrl": "http://ems-iitr.vlabs.ac.in",
-    "introduction": "Welcome to Electrical Machines (Simulation) Lab",
+    "introduction": "Welcome to Electrical Machine (Simulation) Lab",
     "experiments": [
 	    	    {
             "name": "Familiarization of the electrical machine laboratory apparatus",
