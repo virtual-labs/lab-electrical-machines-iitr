@@ -8,7 +8,7 @@
     "phase": 3,
     "collegeName": "IITR",
     "baseUrl": "http://ems-iitr.vlabs.ac.in",
-    "introduction": "Welcome to Electrical Machine (Simulation)Lab",
+    "introduction": "Welcome to Electrical Machines (Simulation)Lab",
     "experiments": [
 	        {
             "name": "To study the Load Characteristics of DC shunt generator",
