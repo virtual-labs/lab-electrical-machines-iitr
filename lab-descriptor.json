@@ -49,7 +49,7 @@
       "name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
       "short-name": "circuit-parameters-oc-test",
       "repo": "https://github.com/virtual-labs/exp-circuit-parameters-oc-test-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -83,5 +83,5 @@
       "DIT University Uttarakhand"
     ]
   },
-  "version": "v1.1.0"
+  "version": "v1.1.1"
 }
