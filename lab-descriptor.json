@@ -83,5 +83,7 @@
       "DIT University Uttarakhand"
     ]
   },
-  "version": "v1.1.4"
+  "version": "v1.2.0",
+  "exp_name": "Speed control of slipring Induction Motor",
+  "exp_short_name": "speed-control-slip-ring"
 }
