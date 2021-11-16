@@ -14,56 +14,56 @@
       "name": "Familiarization of the electrical machine laboratory apparatus",
       "short-name": "lab-equipment-familiarization",
       "repo": "https://github.com/virtual-labs/exp-lab-equipment-familiarization-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "To study the Load Characteristics of DC shunt generator",
       "short-name": "load-characteristics-dc-shunt",
       "repo": "https://github.com/virtual-labs/exp-load-characteristics-dc-shunt-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Speed Control of DC motor by field resistance control",
       "short-name": "dcmotor-field-resistance-control",
       "repo": "https://github.com/virtual-labs/exp-dcmotor-field-resistance-control-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Speed Control of DC motor by armature resistance control",
       "short-name": "dcshunt-motor-armature-control",
       "repo": "https://github.com/virtual-labs/exp-dcshunt-motor-armature-control-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "To perform speed control of DC motor by using Ward- Leonard Method of speed control",
       "short-name": "dcmotor-ward-leonard",
       "repo": "https://github.com/virtual-labs/exp-dcmotor-ward-leonard-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Determination of Transformer equivalent circuit from Open Circuit and Short Circuit Test",
       "short-name": "circuit-parameters-oc-test",
       "repo": "https://github.com/virtual-labs/exp-circuit-parameters-oc-test-iitr",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
       "name": "To study Magnetisation Characteristics of DC shunt generator",
       "short-name": "magnetization-characteristics-dcshunt",
       "repo": "https://github.com/virtual-labs/exp-magnetization-characteristics-dcshunt-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Speed control of slipring Induction Motor",
       "short-name": "speed-control-slip-ring",
       "repo": "https://github.com/virtual-labs/exp-speed-control-slip-ring-iitr",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
