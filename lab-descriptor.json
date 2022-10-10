@@ -4,6 +4,7 @@
     "link": "http://www.vlab.co.in/broad-area-electrical-engineering"
   },
   "lab": "Electrical Machines (Simulation)",
+  "lab_display_name": "Electrical Machines (Simulation)",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITR",
@@ -83,7 +84,7 @@
       "DIT University Uttarakhand"
     ]
   },
-  "version": "v1.6.0",
+  "version": "v1.7.0",
   "exp_name": "Speed control of slipring Induction Motor",
   "exp_short_name": "speed-control-slip-ring"
 }
