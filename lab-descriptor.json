@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "http://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "http://www.vlab.co.in/broad-area-electrical-engineering",
+    "code":"EE"
   },
   "lab": "Electrical Machines (Simulation)",
   "lab_display_name": "Electrical Machines (Simulation)",
@@ -83,8 +84,5 @@
       "Graphic Era University, Dehradun Uttarakhand",
       "DIT University Uttarakhand"
     ]
-  },
-  "version": "v1.13.0",
-  "exp_name": "Speed control of slipring Induction Motor",
-  "exp_short_name": "speed-control-slip-ring"
+  }
 }
