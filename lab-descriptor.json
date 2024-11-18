@@ -2,7 +2,7 @@
   "broadArea": {
     "name": "Electrical Engineering",
     "link": "http://www.vlab.co.in/broad-area-electrical-engineering",
-    "code":"EE"
+    "code": "EE"
   },
   "lab": "Electrical Machines (Simulation)",
   "lab_display_name": "Electrical Machines (Simulation)",
@@ -44,7 +44,7 @@
       "name": "To perform speed control of DC motor by using Ward- Leonard Method of speed control",
       "short-name": "dcmotor-ward-leonard",
       "repo": "https://github.com/virtual-labs/exp-dcmotor-ward-leonard-iitr",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
@@ -70,8 +70,12 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Electrical Engineering"],
-    "PG": ["MS/Ph. D. Beginners in Electrical Engineering"]
+    "UG": [
+      "B. Tech./ B.E in Electrical Engineering"
+    ],
+    "PG": [
+      "MS/Ph. D. Beginners in Electrical Engineering"
+    ]
   },
   "objective": "To learn and understand the basic concepts of Electrical Machines.",
   "courseAlignment": {
