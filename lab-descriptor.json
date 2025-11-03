@@ -37,7 +37,7 @@
       "name": "Speed Control of DC motor by armature resistance control",
       "short-name": "dcshunt-motor-armature-control",
       "repo": "https://github.com/virtual-labs/exp-dcshunt-motor-armature-control-iitr",
-      "tag": "v1.0.3",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
